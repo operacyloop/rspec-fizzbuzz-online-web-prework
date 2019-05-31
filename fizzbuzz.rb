@@ -12,7 +12,7 @@
 def fizzbuzz(int)
   if int % 3 == 0 && davalue != "FizzBuzz" # if the number int is divisible by 3
     "Fizz" # Go fizz
-    int = "Fizz"
+    davalue = "Fizz"
     return int
     
   end
